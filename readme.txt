@@ -1,3 +1,4 @@
+
 How to use GitHub.
 
 1. forking(make a copy under user account)
@@ -7,3 +8,6 @@ How to use GitHub.
 
 How to make folder
 1.make .gitkeep file
+
+How to delete repo --> Go settings(*)
+
